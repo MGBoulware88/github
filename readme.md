@@ -1,4 +1,4 @@
-git config --global user.name MGBoulware88
-git config --global user.email gray.boulware@gmail.com
+git config --global user.name ********
+git config --global user.email **********
 
 git config --global list
